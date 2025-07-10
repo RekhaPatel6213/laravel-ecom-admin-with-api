@@ -1,0 +1,163 @@
+{
+    "data": [{
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name2",
+            "sort_order": "1",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name2",
+            "sort_order": "2",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name3",
+            "sort_order": "3",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name4",
+            "sort_order": "4",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name5",
+            "sort_order": "5",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name6",
+            "sort_order": "6",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name7",
+            "sort_order": "7",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name8",
+            "sort_order": "8",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name9",
+            "sort_order": "9",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name10",
+            "sort_order": "10",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name11",
+            "sort_order": "11",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name12",
+            "sort_order": "12",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name13",
+            "sort_order": "13",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name14",
+            "sort_order": "14",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name15",
+            "sort_order": "15",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name16",
+            "sort_order": "16",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name17",
+            "sort_order": "17",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name18",
+            "sort_order": "18",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name19",
+            "sort_order": "19",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        },
+        {
+            "checkbox": "<input class='form-check-input checkboxes' type='checkbox'>",
+            "srno": "",
+            "name": "Test Name20",
+            "sort_order": "20",
+            "status": "<div class='form-check form-switch'><input type='checkbox' class='form-check-input' /></div>",
+            "action": "<a href='#' title='Edit'><i class='fa fa-edit'></i></a>"
+        }
+    ]
+  }
